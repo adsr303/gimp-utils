@@ -1,2 +1,14 @@
 This is a repo for my personal GIMP-related stuff, mostly scripts.
-You can find it useful or not. :)
+You may find it useful or not. :)
+
+Scripts:
+
+adsr-split-toning.scm
+  Split-toning algorithm based on a tutorial. I like the colors better
+  than other similar scripts and there are some extra options.
+
+adsr-bw-films.scm
+  Simulates light response of various black-and-white films. Based on an
+  article on the web. There is another implementation in GIMP Registry
+  but I decided to keep this one because it shows a more elegant, I hope,
+  way of coding this. :)
