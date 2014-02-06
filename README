@@ -3,6 +3,11 @@ You may find it useful or not. :)
 
 Scripts:
 
+adsr-highpass-sharpen.scm
+  High-pass sharpening algorithm based on multiple tutorials. Creates
+  a sharpening overlay that can be adjusted, moved around and otherwise
+  modified for user preference.
+
 adsr-split-toning.scm
   Split-toning algorithm based on a tutorial. I like the colors better
   than other similar scripts and there are some extra options.
